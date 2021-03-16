@@ -43,7 +43,7 @@ public class DemoMonoliticaSwagger2 {
 	private ApiInfo apiInfo() {
 		@SuppressWarnings("deprecation")
 		ApiInfo apiInfo = new ApiInfo("Acme Producer (AP) REST API", "Lista de serviços da empresa AP para integração", "Versão API 1.0",
-				"Termos de uso", "aluno@e-mail.com", "API License", "API License URL");
+				"Termos de uso", "sidney@uol.com.br", "API License", "API License URL");
 		return apiInfo;
 	}
 
